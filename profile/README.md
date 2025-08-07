@@ -1,4 +1,4 @@
-# Filoxen Labs
+<img width="324" height="219" alt="image" src="https://github.com/user-attachments/assets/2dc775c7-bc2b-486c-b6d0-b482f182d472" />
 
 ## Who are we?
 
