@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-Filoxen Labs is a group of developers, researchers, and hobbyists interested in legacy ROBLOX. We provide hosting for projects at [our site](https://filoxen.lol) and develop tools for doing legacy ROBLOX research.
+Filoxen Labs is a group of developers, researchers, and hobbyists interested in legacy ROBLOX. We provide hosting for related projects at [our site](https://filoxen.lol) and develop tools for doing legacy ROBLOX research.
 
 ## What do you work on?
 
