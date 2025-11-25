@@ -2,15 +2,16 @@
 
 ## Who are we?
 
-Filoxen Labs is a group of developers, researchers, and hobbyists interested in legacy ROBLOX. We provide hosting for related projects at [our site](https://filoxen.lol) and develop tools for doing legacy ROBLOX research.
+Filoxen Labs is a group of developers, researchers, and hobbyists interested in the history of online social games, particularly Roblox. We provide hosting for related projects at [our site](https://filoxen.lol) and develop tools for doing research.
 
 ## What do you work on?
 
-Our main focus is a ROBLOX game, [_Filoxen Research Facilities_](https://www.roblox.com/games/122475963333925/Filoxen-Research-Facilities), which is a 'place roulette' game, displaying games from 2006-2012 and allowing players to visit them. Additionally, we:
+Our main focus is a Roblox game, [_Filoxen Research Facilities_](https://www.roblox.com/games/122475963333925/Filoxen-Research-Facilities), which is a 'place roulette' game, displaying games from 2006-2012 and allowing players to visit them. Additionally, we:
 
   - [Archive ROBLOX screenshots and related images with a UI to browse through them](https://filoxen.lol/ria)
-  - Host an API to get data on ROBLOX games from 2006-2012
+  - Host an API to get data on Roblox games from 2006-2012
+  - Work to recover and restore legacy social worlds, including Roblox, web-based, and other historical games.
 
 ## Let's work!
 
-Interested in legacy ROBLOX? Got skills you think could help out? Contact us! You can reach us via [contact@filoxen.lol](mailto:contact@filoxen.lol).
+Interested in our mission? Got skills you think could help out? Contact us! You can reach us via [contact@filoxen.lol](mailto:contact@filoxen.lol).
