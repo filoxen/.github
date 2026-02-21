@@ -14,4 +14,4 @@ Our main focus is a Roblox game, [_Filoxen Research Facilities_](https://www.rob
 
 ## Let's work!
 
-Interested in our mission? Got skills you think could help out? Contact us!
+Interested in our mission? Got skills you think could help out? Contact us: `@killingacamera:matrix.org`
